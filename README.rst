@@ -20,7 +20,6 @@ To install stable version from pypi, run
 
 To install latest code from github, run
 
-.. code-block:: shell
     pip install git+https://github.com/iamkaustubhb/stocktrends
 
 
